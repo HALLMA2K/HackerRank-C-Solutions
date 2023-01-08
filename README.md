@@ -46,11 +46,11 @@
 | 4 | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Conditional%20Statements.cpp) | 🟩 Easy |
 | 5 | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/For%20Loop.cpp) | 🟩 Easy |
 | 6 | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Functions.cpp) | 🟩 Easy |
-| 7 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 8 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 9 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | 30 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 10 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | 35 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 11 | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
+| 7 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Pointer.cpp) | 🟩 Easy |
+| 8 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Arrays%20Introduction.cpp) | 🟩 Easy |
+| 9 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | 30 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Variable%20Sized%20Arrays.cpp) | 🟩 Easy |
+| 10 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | 35 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Attribute%20Parser.cpp) | 🟧 Medium |
+| 11 | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/StringStream.cpp) | 🟩 Easy |
 | 12 | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 13 | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 14 | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
