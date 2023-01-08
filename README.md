@@ -43,9 +43,9 @@
 | 1 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Say%20Hello%20World.cpp) | 🟩 Easy |
 | 2 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Input%20and%20Output.cpp) | 🟩 Easy |
 | 3 | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Basic%20Data%20Types.cpp) | 🟩 Easy |
-| 4 | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 5 | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 6 | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 4 | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Conditional%20Statements.cpp) | 🟩 Easy |
+| 5 | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/For%20Loop.cpp) | 🟩 Easy |
+| 6 | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Functions.cpp) | 🟩 Easy |
 | 7 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 8 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 9 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | 30 | [Solution.C++](https://github.com/) | 🟩 Easy |
