@@ -70,13 +70,17 @@
 | 28 | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 29 | [Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices/problem) | 15 | [Solution.C++](https://github.com/) | 🟧 Medium |
 | 30 | [Cpp exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling/problem) | 20 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 31 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
-| 32 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 33 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 34 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 35 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 36 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 37 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 38 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 39 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 40 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 31 | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | 25 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
+| 32 | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | 25 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 33 | [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator/problem) | 20 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 34 | [Messages Order](https://www.hackerrank.com/challenges/messages-order/problem) | 40 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 35 | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem) | 30 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 36 | [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | 40 | [Solution.C++](https://github.com/) | 🟥 Hard |
+| 37 | [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 38 | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem) | 25 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 39 | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem) | 25 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 40 | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem) | 30 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 41 | [Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops/problem) | 35 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟧 Medium |
+| 42 | [C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem) | 35 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 43 | [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem) | 80 | [Solution.C++](https://github.com/) | 🟥 Hard |
+| 44 | [Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem) | 80 | [Solution.C++](https://github.com/) | 🟥 Hard |
