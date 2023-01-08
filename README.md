@@ -50,33 +50,33 @@
 | 8 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 9 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | 30 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 10 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | 35 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 1 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
-| 2 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 3 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 7 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 9 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 1 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
-| 2 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 3 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 7 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 9 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 1 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
-| 2 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 3 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 7 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 9 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 11 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
+| 12 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 13 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 14 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 15 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 16 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 17 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 18 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 19 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 20 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 21 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
+| 22 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 23 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 24 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 25 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 26 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 27 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 28 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 29 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 30 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 31 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
+| 32 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 33 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 34 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 35 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 36 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 37 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 38 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 39 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 40 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
