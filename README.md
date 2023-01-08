@@ -24,13 +24,13 @@
 ###### Subdomain: [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)
 | # | Title                                            | Max Score |     Solution     | Difficulty |
 |:-:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
-| 1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | 1 | [Solution.swift](https://github.com/) | 💚 Easy |
-| 2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | 10 | [Solution.swift](https://github.com/) | 💚 Easy |
-| 3 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.swift](https://github.com/) | 💚 Easy |
-| 4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.swift](https://github.com/) | 💚 Easy |
-| 5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.swift](https://github.com/) | 💚 Easy |
-| 6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.swift](https://github.com/) | 💚 Easy |
-| 7 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.swift](https://github.com/) | 💚 Easy |
-| 8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.swift](https://github.com/) | 💚 Easy |
-| 9 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.swift](https://github.com/) | 💚 Easy |
-| 10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.swift](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/01%20Warmup/10%20Time%20Conversion.swift) | 💚 Easy |
+| 1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | 1 | [Solution.C++](https://github.com/) | 💚 Easy |
+| 2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | 10 | [Solution.C++](https://github.com/) | 💚 Easy |
+| 3 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 💚 Easy |
+| 4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 💚 Easy |
+| 5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 💚 Easy |
+| 6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 💚 Easy |
+| 7 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 💚 Easy |
+| 8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 💚 Easy |
+| 9 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 💚 Easy |
+| 10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/AleksandarDinic/HackerRank-Solutions/blob/main/Problem%20Solving%20Algorithms/Solutions/01%20Warmup/10%20Time%20Conversion.C++) | 💚 Easy |
