@@ -50,15 +50,15 @@
 | 8 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 9 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | 30 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 10 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | 35 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 11 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
-| 12 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 13 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 14 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 15 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 16 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 17 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 18 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 19 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 11 | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
+| 12 | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 13 | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 14 | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 15 | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 16 | [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | 30 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 17 | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | 30 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 18 | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | 30 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 19 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | 40 | [Solution.C++](https://github.com/) | 🟧 Medium |
 | 20 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 21 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
 | 22 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
