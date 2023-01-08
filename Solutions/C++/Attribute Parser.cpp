@@ -2,10 +2,6 @@
 
 using namespace std;
 
-#include <bits/stdc++.h>
-
-using namespace std;
-
 int main() {
     int numLines, numQueries, i;
     cin >> numLines >> numQueries;
