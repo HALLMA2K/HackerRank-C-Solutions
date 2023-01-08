@@ -40,9 +40,9 @@
 ###### Subdomain: [C++](https://www.hackerrank.com/domains/cpp)
 | # | Title                                            | Max Score |     Solution     | Difficulty |
 |:-:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
-| 1 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
-| 2 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 3 | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 1 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Say%20Hello%20World.cpp) | 🟩 Easy |
+| 2 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Input%20and%20Output.cpp) | 🟩 Easy |
+| 3 | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Basic%20Data%20Types.cpp) | 🟩 Easy |
 | 4 | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 5 | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 6 | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
