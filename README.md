@@ -24,7 +24,7 @@
 ###### Subdomain: [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)
 | # | Title                                            | Max Score |     Solution     | Difficulty |
 |:-:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
-| 1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | 1 | [Solution.C++](https://github.com/](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp)) | 🟩 Easy |
+| 1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | 1 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
 | 2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 3 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
