@@ -59,17 +59,17 @@
 | 17 | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | 30 | [Solution.C++](https://github.com/) | 🟧 Medium |
 | 18 | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | 30 | [Solution.C++](https://github.com/) | 🟧 Medium |
 | 19 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | 40 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 20 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 21 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
-| 22 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 23 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 24 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 25 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 26 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 27 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 28 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 29 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 30 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 20 | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) | 60 | [Solution.C++](https://github.com/) | 🟥 Hard |
+| 21 | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
+| 22 | [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 23 | [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 24 | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 25 | [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 26 | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 27 | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem) | 50 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 28 | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 29 | [Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices/problem) | 15 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 30 | [Cpp exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling/problem) | 20 | [Solution.C++](https://github.com/) | 🟧 Medium |
 | 31 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
 | 32 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 33 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
