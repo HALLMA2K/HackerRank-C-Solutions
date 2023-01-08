@@ -49,7 +49,7 @@
 | 7 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 8 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 9 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | 30 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 10 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | 35 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 10 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | 35 | [Solution.C++](https://github.com/) | 🟧 Medium |
 | 1 | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | 5 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
 | 2 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | 5 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 3 | [Basic Data Types](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
