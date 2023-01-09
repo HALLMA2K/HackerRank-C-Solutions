@@ -58,14 +58,14 @@
 | 16 | [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | 30 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Box%20It.cpp) | 🟩 Easy |
 | 17 | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | 30 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Inherited%20Code.cpp) | 🟧 Medium |
 | 18 | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | 30 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Exceptional%20Server.cpp) | 🟧 Medium |
-| 19 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | 40 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 20 | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) | 60 | [Solution.C++](https://github.com/) | 🟥 Hard |
-| 21 | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
-| 22 | [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 23 | [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 24 | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 25 | [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem) | 15 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 26 | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
+| 19 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | 40 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Virtual%20Functions.cpp) | 🟧 Medium |
+| 20 | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) | 60 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Abstract%20Classes%20-%20Polymorphism.cpp) | 🟥 Hard |
+| 21 | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Vector-Sort.cpp) | 🟩 Easy |
+| 22 | [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Vector-Erase.cpp) | 🟩 Easy |
+| 23 | [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem) | 15 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Lower%20Bound-STL.cpp) | 🟩 Easy |
+| 24 | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem) | 15 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Sets-STL.cpp) | 🟩 Easy |
+| 25 | [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem) | 15 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Maps-STL.cpp) | 🟩 Easy |
+| 26 | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | 20 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Print%20Pretty.cpp) | 🟩 Easy |
 | 27 | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem) | 50 | [Solution.C++](https://github.com/) | 🟧 Medium |
 | 28 | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
 | 29 | [Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices/problem) | 15 | [Solution.C++](https://github.com/) | 🟧 Medium |
