@@ -53,11 +53,11 @@
 | 11 | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/StringStream.cpp) | 🟩 Easy |
 | 12 | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Strings.cpp) | 🟩 Easy |
 | 13 | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Structs.cpp) | 🟩 Easy |
-| 14 | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | 10 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 15 | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 16 | [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | 30 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 17 | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | 30 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 18 | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | 30 | [Solution.C++](https://github.com/) | 🟧 Medium |
+| 14 | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Class.cpp) | 🟩 Easy |
+| 15 | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem) | 20 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Classes%20and%20Objects.cpp) | 🟩 Easy |
+| 16 | [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | 30 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Box%20It.cpp) | 🟩 Easy |
+| 17 | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | 30 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Inherited%20Code.cpp) | 🟧 Medium |
+| 18 | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | 30 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Exceptional%20Server.cpp) | 🟧 Medium |
 | 19 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | 40 | [Solution.C++](https://github.com/) | 🟧 Medium |
 | 20 | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) | 60 | [Solution.C++](https://github.com/) | 🟥 Hard |
 | 21 | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | 10 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
