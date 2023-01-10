@@ -1,8 +1,8 @@
 # HackerRank-C-Solutions
 
 <p align="center">
-    <a href="https://www.hackerrank.com/ADinic">
-        <img height=70 src="Assets/HackerRank.svg" alt="HackerRank logo">
+    <a href="https://www.hackerrank.com">
+        <img height=70 src="Assets/title-hackerrank.jpg" alt="HackerRank logo">
     </a>
 </p>
 
