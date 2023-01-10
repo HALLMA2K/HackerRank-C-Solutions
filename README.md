@@ -66,21 +66,21 @@
 | 24 | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem) | 15 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Sets-STL.cpp) | 🟩 Easy |
 | 25 | [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem) | 15 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Maps-STL.cpp) | 🟩 Easy |
 | 26 | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | 20 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Print%20Pretty.cpp) | 🟩 Easy |
-| 27 | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem) | 50 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 28 | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 29 | [Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices/problem) | 15 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 30 | [Cpp exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling/problem) | 20 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 31 | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | 25 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟩 Easy |
-| 32 | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | 25 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 33 | [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator/problem) | 20 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 34 | [Messages Order](https://www.hackerrank.com/challenges/messages-order/problem) | 40 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 35 | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem) | 30 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 36 | [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | 40 | [Solution.C++](https://github.com/) | 🟥 Hard |
-| 37 | [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates/problem) | 20 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 38 | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem) | 25 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 39 | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem) | 25 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 40 | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem) | 30 | [Solution.C++](https://github.com/) | 🟩 Easy |
-| 41 | [Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops/problem) | 35 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/Warmup/Solve%20Me%20First.cpp) | 🟧 Medium |
-| 42 | [C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem) | 35 | [Solution.C++](https://github.com/) | 🟧 Medium |
-| 43 | [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem) | 80 | [Solution.C++](https://github.com/) | 🟥 Hard |
-| 44 | [Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem) | 80 | [Solution.C++](https://github.com/) | 🟥 Hard |
+| 27 | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem) | 50 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Deque-STL.cpp) | 🟧 Medium |
+| 28 | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | 20 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Inheritance%20Introduction.cpp) | 🟩 Easy |
+| 29 | [Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices/problem) | 15 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Hotel%20Prices.cpp) | 🟧 Medium |
+| 30 | [Cpp exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling/problem) | 20 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Cpp%20exception%20handling.cpp) | 🟧 Medium |
+| 31 | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | 25 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Rectangle%20Area.cpp) | 🟩 Easy |
+| 32 | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | 25 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Multi%20Level%20Inheritance.cpp) | 🟩 Easy |
+| 33 | [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator/problem) | 20 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Overloading%20Ostream%20Operator.cpp) | 🟧 Medium |
+| 34 | [Messages Order](https://www.hackerrank.com/challenges/messages-order/problem) | 40 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Messages%20Order.cpp) | 🟧 Medium |
+| 35 | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem) | 30 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Accessing%20Inherited%20Functions.cpp) | 🟧 Medium |
+| 36 | [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | 40 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Magic%20Spells.cpp) | 🟥 Hard |
+| 37 | [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates/problem) | 20 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/C%2B%2B%20Class%20Templates.cpp) | 🟩 Easy |
+| 38 | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem) | 25 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Preprocessor%20Solution.cpp) | 🟩 Easy |
+| 39 | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem) | 25 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Operator%20Overloading.cpp) | 🟧 Medium |
+| 40 | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem) | 30 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Overload%20Operators.cpp) | 🟩 Easy |
+| 41 | [Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops/problem) | 35 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Attending%20Workshops.cpp) | 🟧 Medium |
+| 42 | [C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem) | 35 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/C%2B%2B%20Class%20Template%20Specialization.cpp) | 🟧 Medium |
+| 43 | [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem) | 80 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/C%2B%2B%20Variadics.cpp) | 🟥 Hard |
+| 44 | [Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem) | 80 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Bit%20Array.cpp) | 🟥 Hard |
