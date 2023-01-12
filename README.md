@@ -7,7 +7,7 @@
 </p>
 
 </br>
-
+<!--
 <p align="center">
     <a href="https://github.com/AleksandarDinic/HackerRank-Solutions/tree/main/Problem%20Solving%20Algorithms">
         <img height="150" width="150" src="Assets/Problem Solving Algorithms.svg">
@@ -15,7 +15,7 @@
     <a href="https://github.com/AleksandarDinic/HackerRank-Solutions/tree/main/Problem%20Solving%20Data%20Structures">
         <img height="150" width="150" src="Assets/Problem Solving Data Structures.svg">
     </a>
-</p>
+</p> -->
 
 </br>
 
