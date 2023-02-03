@@ -7,7 +7,7 @@ void nextMove(int n, int r, int c, vector <string> grid) {
     
     // Bot pos
     int bX = c;
-    int mY = r;
+    int bY = r;
   
     // Princess pos
     int pX, pY;
