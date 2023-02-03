@@ -68,3 +68,10 @@
 | 42 | [C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem) | 35 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/C%2B%2B%20Class%20Template%20Specialization.cpp) | 🟧 Medium |
 | 43 | [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem) | 80 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/C%2B%2B%20Variadics.cpp) | 🟥 Hard |
 | 44 | [Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem) | 80 | [Solution.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/C%2B%2B/Bit%20Array.cpp) | 🟥 Hard |
+
+## Artificial Intelligence(C++) - Algorithms
+
+<!-- ###### Subdomain: [C++](https://www.hackerrank.com/domains/ai) -->
+| # | Title                                            | Max Score |     Solution     | Difficulty |
+|:-:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
+| 1 | [Bot saves princess](https://www.hackerrank.com/challenges/saveprincess?isFullScreen=true&hr_b=1) | 13 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Bot%20Saves%20Princess.cpp) | 🟩 Easy |
