@@ -76,3 +76,4 @@
 |:-:|:-------------------------------------------------|:---------:|:----------------:|:-----------|
 | 1 | [Bot Saves Princess](https://www.hackerrank.com/challenges/saveprincess) | 13 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Bot%20Saves%20Princess.cpp) | 🟩 Easy |
 | 2 | [Bot Saves Princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | 17 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Bot%20Saves%20Princess%20-%202.cpp) | 🟩 Easy |
+| 3 | [BotClean](https://www.hackerrank.com/challenges/botclean) | 17 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/BotClean.cpp) | 🟩 Easy |
