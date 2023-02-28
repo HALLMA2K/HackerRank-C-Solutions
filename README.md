@@ -79,3 +79,4 @@
 | 3 | [BotClean](https://www.hackerrank.com/challenges/botclean) | 17 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/BotClean.cpp) | 🟩 Easy |
 | 4 | [Basic Statistics Warmup](https://www.hackerrank.com/challenges/stat-warmup/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Basic%20Statistics%20Warmup.cpp) | 🟩 Easy |
 | 5 | [Laptop Battery Life](https://www.hackerrank.com/challenges/battery/copy-from/305262722) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Laptop%20Battery%20Life.cpp) | 🟩 Easy |
+| 6 | [The Trigram](https://www.hackerrank.com/challenges/the-trigram/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/The%20Trigram.cpp) | 🟩 Easy |
