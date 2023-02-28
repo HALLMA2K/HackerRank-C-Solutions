@@ -78,3 +78,4 @@
 | 2 | [Bot Saves Princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | 17 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Bot%20Saves%20Princess%20-%202.cpp) | 🟩 Easy |
 | 3 | [BotClean](https://www.hackerrank.com/challenges/botclean) | 17 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/BotClean.cpp) | 🟩 Easy |
 | 4 | [Basic Statistics Warmup](https://www.hackerrank.com/challenges/stat-warmup/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Basic%20Statistics%20Warmup.cpp) | 🟩 Easy |
+| 5 | [Laptop Battery Life](https://www.hackerrank.com/challenges/battery/copy-from/305262722) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Laptop%20Battery%20Life.cpp) | 🟩 Easy |
