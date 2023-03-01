@@ -37,7 +37,7 @@ void next_move(int posr, int posc, int dimh, int dimw, vector <string> board) {
     Location d = dirtSpots.front();
     int minManhattan = INT_MAX;
     
-    for(auto spot: dirtSpots){
+    for(auto spot: dirtSpots) {
         int manhattanDistance = abs(b.x - spot.x) + abs(b.y - spot.y);
         if(manhattanDistance < minManhattan){
             minManhattan = manhattanDistance;
