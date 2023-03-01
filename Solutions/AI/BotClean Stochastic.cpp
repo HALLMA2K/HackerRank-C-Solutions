@@ -1,7 +1,10 @@
 #include<iostream>
 #include<vector>
+
 using namespace std;
+
 const int boardsize = 5;
+
 class Location {
   public:
     int x,y;
