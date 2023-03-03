@@ -82,3 +82,6 @@
 | 6 | [Basic Statistics Warmup](https://www.hackerrank.com/challenges/stat-warmup/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Basic%20Statistics%20Warmup.cpp) | 🟩 Easy |
 | 7 | [Laptop Battery Life](https://www.hackerrank.com/challenges/battery/copy-from/305262722) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Laptop%20Battery%20Life.cpp) | 🟩 Easy |
 | 8 | [The Trigram](https://www.hackerrank.com/challenges/the-trigram/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/The%20Trigram.cpp) | 🟩 Easy |
+| 9 | [Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem) | 2 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Day%202:%20Basic%20Probability%20Puzzles%20%231.cpp) | 🟩 Easy |
+| 8 | [The Trigram](https://www.hackerrank.com/challenges/the-trigram/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/The%20Trigram.cpp) | 🟩 Easy |
+
