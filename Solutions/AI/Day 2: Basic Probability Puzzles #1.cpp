@@ -23,7 +23,6 @@ int helper()
         }
     }
 
-
     //reduce fraction
     int temp = 0;
   
