@@ -103,4 +103,5 @@
 | 27 | [The Central Limit Theorem #5](https://www.hackerrank.com/challenges/the-central-limit-theorem-5/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/The%20Central%20Limit%20Theorem%20%235.cpp) | 🟧 Medium |
 | 28 | [POS Tagging #1](https://www.hackerrank.com/challenges/nlp-pos-tagging/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/POS%20Tagging%20%231.cpp) | 🟧 Medium |
 | 29 | [POS Tagging #2](https://www.hackerrank.com/challenges/nlp-pos-tagging-2/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/POS%20Tagging%20%232.cpp) | 🟧 Medium |
-
+| 30 | [Day 1: Standard Deviation Puzzles #1](https://www.hackerrank.com/challenges/standard-deviation-puzzles-1/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Day%201%3A%20Standard%20Deviation%20Puzzles%20%231.cpp) | 🟧 Medium |
+| 30 | [Day 1: Standard Deviation Puzzles #2](https://www.hackerrank.com/challenges/standard-deviation-puzzles-2/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Day%201%3A%20Standard%20Deviation%20Puzzles%20%232.cpp) | 🟧 Medium |
