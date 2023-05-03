@@ -108,4 +108,6 @@
 | 32 | [Standard Deviation Puzzles - 3](https://www.hackerrank.com/challenges/standard-deviation-puzzles-3/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Standard%20Deviation%20Puzzles%20-%203.cpp) | 🟧 Medium |
 | 33 | [Standard Deviation Puzzles - 4](https://www.hackerrank.com/challenges/standard-deviation-puzzles-4/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Standard%20Deviation%20Puzzles%20-%204.cpp) | 🟧 Medium |
 | 34 | [Standard Deviation Puzzles - 5](https://www.hackerrank.com/challenges/standard-deviation-puzzles-5/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Standard%20Deviation%20Puzzles%20-%204.cpp) | 🟩 Easy |
+| 35 | [Day 5: Computing the Correlation](https://www.hackerrank.com/challenges/computing-the-correlation/problem) | 20 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Day%205%3A%20Computing%20the%20Correlation.cpp) | 🟥 Expert |
+| 36 | [The Best Aptitude Test](https://www.hackerrank.com/challenges/the-best-aptitude-test/problem) | 15 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/The%20Best%20Aptitude%20Test.cpp) | 🟧 Medium |
 
