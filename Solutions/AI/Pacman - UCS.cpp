@@ -67,8 +67,6 @@ int main() {
     path.push_back(current);
     reverse(path.begin(), path.end());
 
-    // End DFS
-
     cout << path.size() - 1 << endl;
     for(int i = 0; i < path.size(); i++) {
         pair<int, int> pos = path[i];
