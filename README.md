@@ -110,4 +110,6 @@
 | 34 | [Standard Deviation Puzzles - 5](https://www.hackerrank.com/challenges/standard-deviation-puzzles-5/problem) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Standard%20Deviation%20Puzzles%20-%204.cpp) | 🟩 Easy |
 | 35 | [Day 5: Computing the Correlation](https://www.hackerrank.com/challenges/computing-the-correlation/problem) | 20 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Day%205%3A%20Computing%20the%20Correlation.cpp) | 🟥 Expert |
 | 36 | [The Best Aptitude Test](https://www.hackerrank.com/challenges/the-best-aptitude-test/problem) | 15 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/The%20Best%20Aptitude%20Test.cpp) | 🟧 Medium |
-
+| 37 | [PacMan - BFS](https://www.hackerrank.com/challenges/pacman-bfs) | 10 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/PacMan%20-%20BFS.cpp) | 🟧 Medium |
+| 38 | [PacMan - DFS](https://www.hackerrank.com/challenges/pacman-dfs) | 15 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/PacMan%20-%20DFS.cpp) | 🟩 Easy |
+| 39 | [Pacman - UCS](https://www.hackerrank.com/challenges/pacman-ucs) | 5 | [Solution.AI.C++](https://github.com/HALLMA2K/HackerRank-C-Solutions/blob/main/Solutions/AI/Pacman%20-%20UCS.cpp) | 🟥 Hard |
